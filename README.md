@@ -51,4 +51,11 @@ To get this project up and running on your local machine, follow these steps:
 ```bash
 git clone https://github.com/Abhay1v1/Bug-Task-Tracker-Interface.git
 
+How to run -
+
+Step1 : npm install
+Step2: npm run dev
+Step3: localhost:3000
+
+
 
